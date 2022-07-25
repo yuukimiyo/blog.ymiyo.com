@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "BLOG.YMIYO.COM",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "BLOG of YMIYO.",
+    "siteUrl": "https://blog.ymiyo.com",
+    "image": "/assets/logo-800x800.png",
+    "iconimage": "/assets/logo-800x800.png",
+    "twitterUsername": "@yuuki_miyo"
   },
   "ga": "UA-XXXXXXXXX-X"
 }

@@ -108,6 +108,7 @@ module.exports = {
       },
     },
     "gatsby-plugin-offline",
+    /*
     `gatsby-plugin-netlify`,
     {
       resolve: `gatsby-plugin-netlify`,
@@ -121,5 +122,6 @@ module.exports = {
         generateMatchPathRewrites: true,
       },
     },
+    */
   ],
 }

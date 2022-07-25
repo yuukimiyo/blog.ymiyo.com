@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: BLOG.YMIYO.COM
+tagline: By yuuki miyoshi.
+featuredImage: /assets/logo-portfolio-01.jpg
 cta:
-  ctaText: Know more
-  ctaLink: /about
+  ctaText: プロフィールサイト (yuukimiyoshi.info)
+  ctaLink: https://yuukimiyoshi.info
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda

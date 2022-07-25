@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import { RiArrowLeftSLine, RiBugLine, RiSkullLine } from "react-icons/ri"
+import { RiSkullLine } from "react-icons/ri"
 
 import Seo from "../components/seo"
 import Layout from "../components/layout"
@@ -21,18 +21,11 @@ const NotFound = () => (
             color: "var(--primary-color)",
           }}
         />
-        <h1>Oops we did not expect that to happen</h1>
-        <p>
-          Have you wondered into the unknow. Let us help you, Please take a look
-          at below options
-        </p>
+        <h1>ページが見つかりません</h1>
+        <p>間違ったURLにアクセスしていませんか？</p>
       </header>
-      <Link to="/" className="button">
-        <RiArrowLeftSLine className="icon -left" />
-        Back to Homepage
-      </Link>
-      <Link to="/contact" className="button -outline">
-        Report this <RiBugLine className="icon -right" />
+      <Link to="/" className="button -outline">
+        HOMEに戻る
       </Link>
     </div>
   </Layout>
